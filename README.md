@@ -1,2 +1,3 @@
 # Fonts
-Fonts archive for Linux
+
+Collection of Fonts that I use in Linux.
